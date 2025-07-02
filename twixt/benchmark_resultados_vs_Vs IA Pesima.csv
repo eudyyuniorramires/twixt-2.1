@@ -1,0 +1,16 @@
+nombre_config,bot_oponente,partida_numero,ganador,puntos_R,puntos_B,enlaces_R,enlaces_B,tiempo_total,nodos_R,nodos_B,podas_R,podas_B,profundidad_R,profundidad_B
+GoodAI_Pesos1_vs_BotSeleccionado,Vs IA Pesima,1,,16,15,15,0,0:00:47,0,135,0,0,5,1
+GoodAI_Pesos1_vs_BotSeleccionado,Vs IA Pesima,2,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Pesos1_vs_BotSeleccionado,Vs IA Pesima,3,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Pesos2_vs_BotSeleccionado,Vs IA Pesima,1,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Pesos2_vs_BotSeleccionado,Vs IA Pesima,2,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Pesos2_vs_BotSeleccionado,Vs IA Pesima,3,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Pesos3_vs_BotSeleccionado,Vs IA Pesima,1,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Pesos3_vs_BotSeleccionado,Vs IA Pesima,2,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Pesos3_vs_BotSeleccionado,Vs IA Pesima,3,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Tiempo3s_vs_BotSeleccionado,Vs IA Pesima,1,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Tiempo3s_vs_BotSeleccionado,Vs IA Pesima,2,,16,15,15,0,0:00:47,0,135,0,0,5,1
+GoodAI_Tiempo3s_vs_BotSeleccionado,Vs IA Pesima,3,,16,15,15,0,0:00:46,0,135,0,0,5,1
+GoodAI_Tiempo10s_vs_BotSeleccionado,Vs IA Pesima,1,,16,15,15,0,0:02:31,0,135,0,0,5,1
+GoodAI_Tiempo10s_vs_BotSeleccionado,Vs IA Pesima,2,,16,15,15,0,0:02:31,0,135,0,0,5,1
+GoodAI_Tiempo10s_vs_BotSeleccionado,Vs IA Pesima,3,,16,15,15,0,0:02:32,0,135,0,0,5,1

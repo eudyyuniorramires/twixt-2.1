@@ -1,0 +1,16 @@
+nombre_config,bot_oponente,partida_numero,ganador,puntos_R,puntos_B,enlaces_R,enlaces_B,tiempo_total,nodos_R,nodos_B,podas_R,podas_B,profundidad_R,profundidad_B
+GoodAI_Pesos1_vs_BotSeleccionado,Vs IA Random,1,,7,6,6,0,0:00:19,0,1,0,0,5,1
+GoodAI_Pesos1_vs_BotSeleccionado,Vs IA Random,2,,17,16,16,5,0:00:49,0,1,0,0,5,1
+GoodAI_Pesos1_vs_BotSeleccionado,Vs IA Random,3,,20,19,19,4,0:00:59,0,1,0,0,5,1
+GoodAI_Pesos2_vs_BotSeleccionado,Vs IA Random,1,,20,19,19,6,0:01:00,0,1,0,0,5,1
+GoodAI_Pesos2_vs_BotSeleccionado,Vs IA Random,2,,33,32,35,12,0:01:38,0,1,0,0,5,1
+GoodAI_Pesos2_vs_BotSeleccionado,Vs IA Random,3,,16,15,15,5,0:00:46,0,1,0,0,5,1
+GoodAI_Pesos3_vs_BotSeleccionado,Vs IA Random,1,,21,20,21,4,0:01:01,0,1,0,0,5,1
+GoodAI_Pesos3_vs_BotSeleccionado,Vs IA Random,2,,16,15,16,4,0:00:46,0,1,0,0,5,1
+GoodAI_Pesos3_vs_BotSeleccionado,Vs IA Random,3,,27,26,28,11,0:01:19,0,1,0,0,5,1
+GoodAI_Tiempo3s_vs_BotSeleccionado,Vs IA Random,1,,16,15,15,5,0:00:46,0,1,0,0,5,1
+GoodAI_Tiempo3s_vs_BotSeleccionado,Vs IA Random,2,,23,22,23,8,0:01:07,0,1,0,0,5,1
+GoodAI_Tiempo3s_vs_BotSeleccionado,Vs IA Random,3,B,51,51,35,16,0:02:23,0,1,0,0,5,1
+GoodAI_Tiempo10s_vs_BotSeleccionado,Vs IA Random,1,,23,22,23,5,0:03:41,0,1,0,0,5,1
+GoodAI_Tiempo10s_vs_BotSeleccionado,Vs IA Random,2,,27,26,27,7,0:04:23,0,1,0,0,5,1
+GoodAI_Tiempo10s_vs_BotSeleccionado,Vs IA Random,3,,20,19,20,6,0:03:11,0,1,0,0,5,1
